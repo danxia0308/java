@@ -1,0 +1,17 @@
+{
+"courseName":"数学",
+"courseId":"shuxue",
+"registeredStudent":
+[
+	{
+	"name":"Amanda",
+	"age":18,
+	"female":true
+	},
+	{
+	"name":"Sophie",
+	"age":18,
+	"female":true
+	}
+]
+}
